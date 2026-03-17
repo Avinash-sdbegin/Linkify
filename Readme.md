@@ -59,8 +59,8 @@ Linkify is a full-stack URL shortening app built with Node.js, Express, MongoDB,
 ### 🔐 Signup Page
 ![Signup](./Sign_up.png)
 
-### ⚙️ Logic Flow
-![Logic](./Logic.png)
+### ⚙️ Login Page
+![Login](./Login.png)
 
 ## 🚀 Getting Started (Local)
 
